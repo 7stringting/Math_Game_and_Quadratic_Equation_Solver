@@ -1,6 +1,4 @@
-# COMP2152 Assignment 2
-# Made By Ali Al Aoraebi 101386021
-# Michael Murphy
+# Made By Ali Al Aoraebi
 # Youtube Video: https://youtu.be/Ue8izQ8L4Os
 
 import math
