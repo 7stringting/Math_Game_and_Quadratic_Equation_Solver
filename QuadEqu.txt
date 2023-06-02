@@ -1,0 +1,2 @@
+Your Quadratic Equation is: 6.0X^2 + 17.0X + 7.0 = 0
+We got two real solutions, which are -0.50, and -2.33
